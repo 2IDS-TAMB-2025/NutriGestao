@@ -1,6 +1,6 @@
 ## NutriGestão
 
-![NutriGestão](caminho-ou-link-da-imagem)  
+![NutriGestão](logo.jpeg)  
 
 > Solução tecnológica para o combate ao desperdício de alimentos, monitoramento nutricional e planejamento eficiente nas instituições de ensino.
 
@@ -150,7 +150,7 @@ Este projeto está licenciado sob a *MIT License*. Veja o arquivo [LICENSE](LICE
 
 ## NutriGestão
 
-![NutriGestão](path-or-image-link)
+![NutriGestão](logo.jpeg)
 
 > Technological solution to combat food waste, monitor nutrition, and efficiently plan meals in educational institutions.
 
