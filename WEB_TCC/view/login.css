@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f4f4f4;
+}
+.container {
+    display: flex;
+    width: 90%;
+    height: 90%;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+.login {
+    flex: 1;
+    background: linear-gradient(135deg, #ffb444, #f49200);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.login h2 {
+    margin-bottom: 10px;
+}
+.login p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.login button {
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.registro {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    /*overflow: scroll;*/
+}
+
+.registro h2 {
+    color: #f49200;
+    margin-bottom: 15px;
+}
+.registro input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.registro button {
+    background: #ffb444;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.titulo {
+    font-size: 28px;
+    font-weight: 600;
+    color: #f49200;
+    text-align: center;
+   padding-bottom: 5%;
+}
+.social-icons a {
+    margin: 0 10px;
+    font-size: 20px;
+    color: #f5b149;
+    transition: color 0.3s ease;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #f69200; 
+}
+.botao{
+    text-decoration: none;
+    color: #333;
+    margin-top: 10%;
+}
+.social-icons{
+    padding-bottom: 5%;
+}
