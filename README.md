@@ -121,7 +121,7 @@
 
 | Nome                       | Função                                                         |
 |----------------------------|----------------------------------------------------------------|
-| Alexandre E. da S. Velucci | P.O e Desenvolvedor Full Stack(./Web/view/images/alexandre.png)        |
+| Alexandre E. da S. Velucci | P.O e Desenvolvedor Full Stack ![NutriGestão](./Web/view/images/alexandre.png)     |
 | Júlia Puelcher Ribeiro     | Desenvolvedora Full Stack(./Web/view/images/julia.png)             |
 | Yasmin Caroline Brandalia  | Analista de Banco de Dados(./Web/view/images/yasmin.png)            |
 | Gabriel Giorgetti Faria    | Analista de Banco de Dados(./Web/view/images/gabrielF.png)            |
