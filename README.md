@@ -122,13 +122,13 @@
 | Nome                       | Função                                                         |
 |----------------------------|----------------------------------------------------------------|
 | Alexandre E. da S. Velucci | P.O e Desenvolvedor Full Stack <img src="./Web/view/images/alexandre.png" width="50">     |
-| Júlia Puelcher Ribeiro     | Desenvolvedora Full Stack(./Web/view/images/julia.png)             |
-| Yasmin Caroline Brandalia  | Analista de Banco de Dados(./Web/view/images/yasmin.png)            |
-| Gabriel Giorgetti Faria    | Analista de Banco de Dados(./Web/view/images/gabrielF.png)            |
-| Thalita Bichoff Perle      | Scrum Master e Programadora Back-End(./Web/view/images/thalita.png)  |
-| Gabriel Viana Moroni       | Programador Back-End(./Web/view/images/moroni.png)                  |
-| Liebert Henrique Simões    | Programador Front-End(./Web/view/images/liebert.png)                 |
-| Amanda Viera Costa         | Programadora Front-End(./Web/view/images/amanda.png)                |
+| Júlia Puelcher Ribeiro     | Desenvolvedora Full Stack <img src="./Web/view/images/julia.png" width="50">             |
+| Yasmin Caroline Brandalia  | Analista de Banco de Dados <img src="./Web/view/images/yasmin.png" width="50">           |
+| Gabriel Giorgetti Faria    | Analista de Banco de Dados <img src="./Web/view/images/gabrielF.png" width="50">           |
+| Thalita Bichoff Perle      | Scrum Master e Programadora Back-End <img src="./Web/view/images/thalita.png" width="50"> |
+| Gabriel Viana Moroni       | Programador Back-End <img src="./Web/view/images/moroni.png" width="50">                  |
+| Liebert Henrique Simões    | Programador Front-End <img src="./Web/view/images/liebert.png" width="50">                |
+| Amanda Viera Costa         | Programadora Front-End <img src="./Web/view/images/amanda.png" width="50">               |
 
 ---
  
@@ -260,14 +260,14 @@
 
 | Name                        | Role                                                            |
 |-----------------------------|-----------------------------------------------------------------|
-| Alexandre E. da S. Velucci  | Product Owner & Full Stack Developer (./Web/view/images/alexandre.png)      |
-| Júlia Puelcher Ribeiro      | Full Stack Developer (./Web/view/images/julia.png)                       |
-| Yasmin Caroline Brandalia   | Database Analyst (./Web/view/images/yasmin.png)                           |
-| Gabriel Giorgetti Faria     | Database Analyst (./Web/view/images/gabrielF.png)                           |
-| Thalita Bichoff Perle       | Scrum Master & Back-End Developer (./Web/view/images/thalita.png)          |
-| Gabriel Viana Moroni        | Back-End Developer (./Web/view/images/moroni.png)                         |
-| Liebert Henrique Simões     | Front-End Developer (./Web/view/images/liebert.png)                        |
-| Amanda Viera Costa          | Front-End Developer (./Web/view/images/amanda.png)                        |
+| Alexandre E. da S. Velucci  | Product Owner & Full Stack Developer <img src="./Web/view/images/alexandre.png" width="50">      |
+| Júlia Puelcher Ribeiro      | Full Stack Developer <img src="./Web/view/images/julia.png" width="50">                       |
+| Yasmin Caroline Brandalia   | Database Analyst <img src="./Web/view/images/yasmin.png" width="50">                           |
+| Gabriel Giorgetti Faria     | Database Analyst <img src="./Web/view/images/gabrielF.png" width="50">                           |
+| Thalita Bichoff Perle       | Scrum Master & Back-End Developer <img src="./Web/view/images/thalita.png" width="50">          |
+| Gabriel Viana Moroni        | Back-End Developer <img src="./Web/view/images/moroni.png" width="50">                         |
+| Liebert Henrique Simões     | Front-End Developer <img src="./Web/view/images/liebert.png" width="50">                        |
+| Amanda Viera Costa          | Front-End Developer <img src="./Web/view/images/amanda.png" width="50">                        |
 
 ---
 
