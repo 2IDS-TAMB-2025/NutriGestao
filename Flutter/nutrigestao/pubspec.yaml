@@ -1,0 +1,44 @@
+name: nutrigestao
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/nutri1.png
+    - assets/images/nutri2.png
+    - assets/images/sem.png
+    - assets/images/4 (1).png
+    - assets/images/yasm.png
+    - assets/images/aman.png
+    - assets/images/lieb.jpeg
+    - assets/images/gabri.jpeg
+    - assets/images/juli.jpeg
+    - assets/images/moro.jpeg
+    - assets/images/thal.jpeg
+    - assets/images/alex.jpeg
+    - assets/images/loguinho.png
+    - assets/images/carrossel.png
+    - assets/images/nutri2.png
+    - assets/images/carro.png
+    - assets/images/test.jpeg
+    - assets/images/imgsite.jpg
+    - assets/images/car1.png
+    - assets/images/logoo.png
+    - assets/images/sla.png
+    
+    

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <title>Sucesso - NutriGestão</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            padding: 30px 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            text-align: center;
+        }
+        h1 {
+            color: #28a745;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            margin-bottom: 25px;
+        }
+        a {
+            text-decoration: none;
+            background-color: #fd9c14;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        a:hover {
+            background-color: #f89200;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cardápio salvo com sucesso!</h1>
+        <p>Os dados do cardápio foram registrados corretamente no sistema.</p>
+        <a href="cardapio.php?&unidade_escolar=".$unidade_escolar>Voltar para o Cardápio</a>
+    </div>
+</body>
+</html>
