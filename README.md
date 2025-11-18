@@ -51,14 +51,14 @@
 - Tela de login (cadastro, esqueci senha, validações)
 - Tela inicial (refeições, desperdícios)
 
-*Sprint 2 - 80%*
+*Sprint 2 - 100%*
 - Relatórios
 - Contagem de alunos
 - Restrições alimentares e dietas
 - Ações e configurações
 - Logout
 
-*Sprint 3 - 85%*
+*Sprint 3 - 100%*
 - Integração de dados
 
 ### Mobile
@@ -72,18 +72,18 @@
 - Visualização de turmas
 - Contagem
 
-*Sprint 3 - 0%*
+*Sprint 3 - 100%*
 - Integração mobile
 
 ###  IoT
 
-*Sprint 1 - 0%*
+*Sprint 1 - 100%*
 - Leitor RFID
 
-*Sprint 2 - 0%*
+*Sprint 2 - 100%*
 - Estrutura da balança
 
-*Sprint 3 - 0%*
+*Sprint 3 - 100%*
 - Integração do RFID com a balança
 
 ---
@@ -121,25 +121,14 @@
 
 | Nome                       | Função                                                         |
 |----------------------------|----------------------------------------------------------------|
-| Alexandre E. da S. Velucci | P.O e Desenvolvedor Full Stack(caminho-ou-link-da-imagem)        |
-| Júlia Puelcher Ribeiro     | Desenvolvedora Full Stack(caminho-ou-link-da-imagem)             |
-| Yasmin Caroline Brandalia  | Analista de Banco de Dados(caminho-ou-link-da-imagem)            |
-| Gabriel Giorgetti Faria    | Analista de Banco de Dados(caminho-ou-link-da-imagem)            |
-| Thalita Bichoff Perle      | Scrum Master e Programadora Back-End(caminho-ou-link-da-imagem)  |
-| Gabriel Viana Moroni       | Programador Back-End(caminho-ou-link-da-imagem)                  |
-| Liebert Henrique Simões    | Programador Front-End(caminho-ou-link-da-imagem)                 |
-| Amanda Viera Costa         | Programadora Front-End(caminho-ou-link-da-imagem)                |
-
----
-
-##  Layout e Progresso
-
-![SPRINTS](caminho-ou-link-da-imagem)(caminho-ou-link-da-imagem)
----
-
-##  Licença
-
-Este projeto está licenciado sob a *MIT License*. Veja o arquivo [LICENSE](LICENSE) para mais informações.
+| Alexandre E. da S. Velucci | P.O e Desenvolvedor Full Stack(./Web/view/images/alexandre.png)        |
+| Júlia Puelcher Ribeiro     | Desenvolvedora Full Stack(./Web/view/images/julia.png)             |
+| Yasmin Caroline Brandalia  | Analista de Banco de Dados(./Web/view/images/yasmin.png)            |
+| Gabriel Giorgetti Faria    | Analista de Banco de Dados(./Web/view/images/gabrielF.png)            |
+| Thalita Bichoff Perle      | Scrum Master e Programadora Back-End(./Web/view/images/thalita.png)  |
+| Gabriel Viana Moroni       | Programador Back-End(./Web/view/images/moroni.png)                  |
+| Liebert Henrique Simões    | Programador Front-End(./Web/view/images/liebert.png)                 |
+| Amanda Viera Costa         | Programadora Front-End(./Web/view/images/amanda.png)                |
 
 ---
  
@@ -201,14 +190,14 @@ Este projeto está licenciado sob a *MIT License*. Veja o arquivo [LICENSE](LICE
 - Login screen (sign-up, password recovery, validations)
 - Home screen (meals, waste)
 
-*Sprint 2 - 80%*
+*Sprint 2 - 100%*
 - Reports
 - Student count
 - Dietary restrictions
 - Settings and actions
 - Logout
 
-*Sprint 3 - 85%*
+*Sprint 3 - 100%*
 - Data integration
 
 ###  Mobile
@@ -222,18 +211,18 @@ Este projeto está licenciado sob a *MIT License*. Veja o arquivo [LICENSE](LICE
 - Class overview
 - Student count
 
-*Sprint 3 - 0%*
+*Sprint 3 - 100%*
 - Mobile integration
 
 ###  IoT
 
-*Sprint 1 - 0%*
+*Sprint 1 - 100%*
 - RFID reader
 
-*Sprint 2 - 0%*
+*Sprint 2 - 100%*
 - Scale structure
 
-*Sprint 3 - 0%*
+*Sprint 3 - 100%*
 - Integration between RFID and scale
 
 ---
@@ -271,26 +260,14 @@ Este projeto está licenciado sob a *MIT License*. Veja o arquivo [LICENSE](LICE
 
 | Name                        | Role                                                            |
 |-----------------------------|-----------------------------------------------------------------|
-| Alexandre E. da S. Velucci  | Product Owner & Full Stack Developer (path-or-image-link)      |
-| Júlia Puelcher Ribeiro      | Full Stack Developer (path-or-image-link)                       |
-| Yasmin Caroline Brandalia   | Database Analyst (path-or-image-link)                           |
-| Gabriel Giorgetti Faria     | Database Analyst (path-or-image-link)                           |
-| Thalita Bichoff Perle       | Scrum Master & Back-End Developer (path-or-image-link)          |
-| Gabriel Viana Moroni        | Back-End Developer (path-or-image-link)                         |
-| Liebert Henrique Simões     | Front-End Developer (path-or-image-link)                        |
-| Amanda Viera Costa          | Front-End Developer (path-or-image-link)                        |
-
----
-
-##  Layout and Progress
-
-![SPRINTS](path-or-image-link)(path-or-image-link)
-
----
-
-##  License
-
-This project is licensed under the *MIT License*. See the [LICENSE](LICENSE) file for more details.
+| Alexandre E. da S. Velucci  | Product Owner & Full Stack Developer (./Web/view/images/alexandre.png)      |
+| Júlia Puelcher Ribeiro      | Full Stack Developer (./Web/view/images/julia.png)                       |
+| Yasmin Caroline Brandalia   | Database Analyst (./Web/view/images/yasmin.png)                           |
+| Gabriel Giorgetti Faria     | Database Analyst (./Web/view/images/gabrielF.png)                           |
+| Thalita Bichoff Perle       | Scrum Master & Back-End Developer (./Web/view/images/thalita.png)          |
+| Gabriel Viana Moroni        | Back-End Developer (./Web/view/images/moroni.png)                         |
+| Liebert Henrique Simões     | Front-End Developer (./Web/view/images/liebert.png)                        |
+| Amanda Viera Costa          | Front-End Developer (./Web/view/images/amanda.png)                        |
 
 ---
 
