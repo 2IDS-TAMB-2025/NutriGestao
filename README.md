@@ -1,6 +1,6 @@
 ## NutriGestão
 
-![NutriGestão](logo.jpeg)  
+![NutriGestão](./Flutter/nutrigestao/assets/images/logoo.png)  
 
 > Solução tecnológica para o combate ao desperdício de alimentos, monitoramento nutricional e planejamento eficiente nas instituições de ensino.
 
