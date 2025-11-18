@@ -150,7 +150,7 @@ Este projeto está licenciado sob a *MIT License*. Veja o arquivo [LICENSE](LICE
 
 ## NutriGestão
 
-![NutriGestão](logo.jpeg)
+![NutriGestão](./Flutter/nutrigestao/assets/images/logoo.png)
 
 > Technological solution to combat food waste, monitor nutrition, and efficiently plan meals in educational institutions.
 
